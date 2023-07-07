@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Poppins&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.header {
+
+    background-color: #ab8f78;
+    box-shadow: 0 5px 5px #cecaca;
+    display: flex;
+    border: 2px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.logo {
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin: 10px 10px;
+    padding: 10px;
+    font-size: 28px;
+
+
+
+}
+
+.box-menu {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 10px 0 10px;
+
+
+}
+
+li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    margin: 15px 15px;
+    list-style-type: none;
+    padding: 20px;
+
+
+
+}
+
+.nav ul {
+
+    list-style-type: none;
+    display: flex;
+   
+
+}
+
+
+
+
+/* MAIN */
+
+main {
+    background-image: url(https://kinsta.com/es/wp-content/uploads/sites/8/2019/01/como-empezar-un-blog-de-viajes.png);
+    background-repeat: no-repeat;
+    
+}
+
+
+
+img {
+    width: 100%;
+}
+
+
+
+
+/* Footer */
+
+.footer p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+
+.redes-icono {
+    max-width: 25px;
+    padding: 10px;
+
+}
+
+.footer {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.footer div{
+    display: flex;
+}
